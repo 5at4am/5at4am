@@ -37,7 +37,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔮 [Real-Time AI Assistant](https://github.com/5at4am) | Screen + Audio capture + Groq = Real-time AI help for devs & students |
+| 🔮 [Real-Time AI Assistant](https://github.com/5at4am/ai_assistant) | Screen + Audio capture + Groq = Real-time AI help for devs & students |
 | 🎨 [Image Prompt Enhancer](https://github.com/5at4am) | Convert basic prompts into detailed, creative visual stories using AI |
 | ✍️ [Prompt Enhancer Tool](https://github.com/5at4am/Prompt-Forge) | Enhance any user input into powerful prompts using large language models |
 | 🍜 [Friend Cafe Restro](https://github.com/5at4am) | A modern restaurant SaaS dashboard for orders, inventory & feedback |
