@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AEBC4&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+AI-powered+Products+that+Work.;Crafting+SaaS+Apps+with+Purpose.;From+Code+to+Impact+-+Brick+by+Brick." alt="Typing SVG" />
+
+  <img src= "https://komarev.com/ghpvc/?username=5at4am&color=purple" alt ="Profile Views" />
 </p>
 
 ---
