@@ -3,7 +3,7 @@
 Software engineer focused on AI-driven applications, full-stack systems, and practical developer tools.
 
 ---
-
+ 
 ## What I’m working on
 - Real-time AI assistants using screen, audio, and OCR signals
 - AI agent workflows and prompt-driven systems
