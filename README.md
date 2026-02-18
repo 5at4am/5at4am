@@ -70,6 +70,6 @@ Tech: React, backend APIs, database integration
 - GitHub: https://github.com/5at4am
 
 ---
-
+ 
 I focus on building usable systems, not demos.  
 Clean architecture, working code, and continuous improvement matter more than hype.
