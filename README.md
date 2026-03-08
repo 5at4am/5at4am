@@ -262,7 +262,7 @@ I believe great engineers ship **complete, working systems** — not concept pro
 | 🌐 **All Links** | [linktr.ee/5at4am](https://linktr.ee/5at4am) |
 | 💻 **GitHub** | [github.com/5at4am](https://github.com/5at4am) |
 
-<br/>
+<br/> 
 
 > 💼 **Actively seeking internships in AI/ML and Full-Stack Development**  
 > 📅 Available for full-time roles from **2027**
