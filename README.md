@@ -194,12 +194,12 @@ Philosophy   : "Ship real systems. Learn by doing. Code over theory."
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/satyam_raj_01?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" width="500"/>
+<img src="https://leetcard.jacoblin.cool/satyamraj01?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" width="500"/>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/satyam_raj_01/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20LeetCode%20Profile-%20satyam__raj__01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Visit%20My%20LeetCode%20Profile-%20satyamraj01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
