@@ -39,7 +39,7 @@ GitHub       : @5at4am
 Degree       : B.Tech — Computer Science & Engineering (AI/ML)
 University   : LNCT University, Bhopal, India
 Graduating   : 2027
-LeetCode     : satyam_raj_01
+LeetCode     : satyamraj01
 Email        : satraj6465@gmail.com
 Timezone     : UTC +05:30
 
