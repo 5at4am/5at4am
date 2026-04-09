@@ -258,7 +258,7 @@ I believe great engineers ship **complete, working systems** — not concept pro
 |---|---|
 | 📧 **Email** | [satraj6465@gmail.com](mailto:satraj6465@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/satyam-raj-b8a21b2a4](https://www.linkedin.com/in/satyam-raj-b8a21b2a4/) |
-| 🟡 **LeetCode** | [leetcode.com/u/satyam_raj_01](https://leetcode.com/u/satyam_raj_01/) |
+| 🟡 **LeetCode** | [leetcode.com/u/satyamraj01](https://leetcode.com/u/satyam_raj_01/) |
 | 🌐 **All Links** | [linktr.ee/5at4am](https://linktr.ee/5at4am) |
 | 💻 **GitHub** | [github.com/5at4am](https://github.com/5at4am) |
 
