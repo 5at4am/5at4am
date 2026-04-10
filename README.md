@@ -15,7 +15,7 @@
 <a href="mailto:satraj6465@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/satyam_raj_01/" target="_blank">
+<a href="https://leetcode.com/u/satyamraj01/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://linktr.ee/5at4am" target="_blank">
