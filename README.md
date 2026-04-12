@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/satyam-raj-b8a21b2a4/" target="_blank">
+<a href="https://www.linkedin.com/in/satyamraj001/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:satraj6465@gmail.com">
