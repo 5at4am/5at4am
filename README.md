@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Satyam+Raj+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Full-Stack+Builder;I+build+real+systems%2C+not+demos+%F0%9F%9A%80;B.Tech+CSE+(AI%2FML)+%E2%80%94+LNCT+University" alt="Typing SVG" />
 
 <br/><br/>
-
+ 
 <a href="https://www.linkedin.com/in/satyamraj001/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
