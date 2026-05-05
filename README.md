@@ -68,13 +68,13 @@ Philosophy   : "Ship real systems. Learn by doing. Code over theory."
       <a href="https://github.com/5at4am/Realtime-ai-assistant"><b>→ View Repo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Adaptive AI Tutor</h3>
-      <p>Learning system that dynamically adjusts quiz difficulty and explanations based on student performance — powered by LLM integrations and persistent progress tracking.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+      <h3>🧠LexiSoft</h3>
+      <p>A simple minimal dictionary where you can easily use dictionary without any distraction</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Real--Time-FF4B4B?style=flat"/>
       <br/><br/>
-      <a href="https://github.com/5at4am/Adaptive_ai_tuore"><b>→ View Repo</b></a>
+      <a href="https://github.com/5at4am/Realtime-ai-assistant"><b>→ View Repo</b></a>
     </td>
   </tr>
   <tr>
@@ -130,15 +130,7 @@ Philosophy   : "Ship real systems. Learn by doing. Code over theory."
       <br/><br/>
       <a href="https://github.com/5at4am/Java-start"><b>→ View Repo</b></a>
     </td>
-   <td width="50%" valign="top">
-      <h3>🧠LexiSoft</h3>
-      <p>A simple minimal dictionary where you can easily use dictionary without any distraction</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Real--Time-FF4B4B?style=flat"/>
-      <br/><br/>
-      <a href="https://github.com/5at4am/Realtime-ai-assistant"><b>→ View Repo</b></a>
-    </td>
+   
   </tr>
 </table>
 
