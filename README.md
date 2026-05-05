@@ -130,6 +130,15 @@ Philosophy   : "Ship real systems. Learn by doing. Code over theory."
       <br/><br/>
       <a href="https://github.com/5at4am/Java-start"><b>→ View Repo</b></a>
     </td>
+   <td width="50%" valign="top">
+      <h3>🧠LexiSoft</h3>
+      <p>A simple minimal dictionary where you can easily use dictionary without any distraction</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Real--Time-FF4B4B?style=flat"/>
+      <br/><br/>
+      <a href="https://github.com/5at4am/Realtime-ai-assistant"><b>→ View Repo</b></a>
+    </td>
   </tr>
 </table>
 
