@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/><br/> 
 
 <img src="https://komarev.com/ghpvc/?username=5at4am&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/stars/5at4am?style=for-the-badge&color=yellow&label=TOTAL+STARS" alt="Stars"/>
