@@ -43,7 +43,7 @@ LeetCode     : satyamraj01
 Email        : satraj6465@gmail.com
 Timezone     : UTC +05:30
 
-Strengths    : AI Systems · Backend APIs · DSA · Prompt Engineering
+Strengths    : AI Systems · Backend APIs · DSA · Prompt Engineering, AI Engineering 
 Currently    : Java + DSA daily grind + AI/ML project building
 Philosophy   : "Ship real systems. Learn by doing. Code over theory."
 ```
