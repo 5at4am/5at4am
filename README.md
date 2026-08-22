@@ -65,51 +65,30 @@ Built AI-driven automation workflows and multi-agent systems on the WiiZ platfor
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ Contract Risk Analyzer</h3>
-      <p>Award-winning, multi-agent LangChain system that analyzes contracts for risk, using coordinated agents for clause extraction, classification, and flagging.</p>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Multi--Agent-412991?style=flat"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <h3>✅ AI Task Manager</h3>
+      <p>AI-powered task manager that tracks and summarizes your tasks automatically. Actively maintained, with a live demo deployed on Vercel.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AI--Powered-412991?style=flat"/>
       <br/><br/>
-      <a href="https://github.com/5at4am"><b>→ View on GitHub</b></a>
+      <a href="https://ai-task-manager-fawn.vercel.app"><b>→ Live Demo</b></a> · <a href="https://github.com/5at4am/AI-task-manager"><b>View Repo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ FlowTask</h3>
-      <p>Full-stack AI-powered task manager with natural-language task creation and prioritization, built end-to-end as a portfolio piece.</p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Anthropic_API-6E40C9?style=flat"/>
+      <h3>⚙️ Smart Manufacturing Condition Monitor</h3>
+      <p>Predictive-maintenance ML pipeline on a smart manufacturing dataset — condition monitoring and failure prediction for industrial equipment.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6C37?style=flat"/>
       <br/><br/>
-      <a href="https://github.com/5at4am"><b>→ View on GitHub</b></a>
+      <a href="https://github.com/5at4am/Smart-Manufacturing--Condition-Monitor"><b>→ View Repo</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Realtime AI Assistant</h3>
-      <p>Real-time AI assistant that analyzes screen + audio to give in-context developer guidance as you work. Built with async pipelines and LLM APIs.</p>
+      <h3>🧠 AI Assistant</h3>
+      <p>Conversational AI assistant with a live deployed demo — exploring LLM integration and context-aware response generation.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Real--Time-FF4B4B?style=flat"/>
       <br/><br/>
-      <a href="https://github.com/5at4am/Realtime-ai-assistant"><b>→ View Repo</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 ToolBridge</h3>
-      <p>MCP server + CLI dual-interface wrapper exploring the "agents as users" space — letting AI agents interact with tools built for humans.</p>
-      <img src="https://img.shields.io/badge/MCP-6E40C9?style=flat"/>
-      <img src="https://img.shields.io/badge/CLI-000000?style=flat"/>
-      <br/><br/>
-      <a href="https://github.com/5at4am"><b>→ View on GitHub</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 LexiSoft</h3>
-      <p>A minimal, distraction-free dictionary web app — clean UI, fast lookups, no clutter.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <br/><br/>
-      <a href="https://github.com/5at4am/LexiSoft"><b>→ View Repo</b></a>
+      <a href="https://ai-assistant-six-iota.vercel.app"><b>→ Live Demo</b></a> · <a href="https://github.com/5at4am/ai_assistant"><b>View Repo</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>✨ Prompt Forge</h3>
@@ -118,6 +97,24 @@ Built AI-driven automation workflows and multi-agent systems on the WiiZ platfor
       <img src="https://img.shields.io/badge/MIT_License-green?style=flat&logo=opensourceinitiative&logoColor=white"/>
       <br/><br/>
       <a href="https://github.com/5at4am/Prompt-Forge"><b>→ View Repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 LexiSoft</h3>
+      <p>A minimalist sanctuary for word exploration — a refined, editorial-grade dictionary search experience built with Next.js and Framer Motion.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/5at4am/lexisoft"><b>→ View Repo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 AI Resume Builder</h3>
+      <p>Web app that generates structured resumes from user input with AI enhancement.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AI--Powered-412991?style=flat"/>
+      <br/><br/>
+      <a href="https://github.com/5at4am/Resume-Builder"><b>→ View Repo</b></a>
     </td>
   </tr>
 </table>
