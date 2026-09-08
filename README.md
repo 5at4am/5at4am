@@ -230,6 +230,6 @@ I believe great engineers ship **complete, working systems** — not concept pro
 
 <br/>
 
-⭐ *If you find any of my projects useful, a star means a lot! yaay !!!*
+⭐ *If you find any of my projects useful, a star means a lot! yaay ...  !!!*
 
 </div>
